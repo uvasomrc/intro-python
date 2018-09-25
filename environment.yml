@@ -5,7 +5,4 @@ channels:
 dependencies:
   - python
   - numpy
-  - matplotlib
-  - pandas
-  - bokeh
   - rise
