@@ -2,4 +2,4 @@
 
 # Introduction to Python
 
-## UVa School of Medicine Research Computing
+UVa School of Medicine Research Computing
