@@ -3,3 +3,7 @@
 # Introduction to Python
 
 UVa School of Medicine Research Computing
+
+To begin the lesson: click the "Launch Binder" button.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/uvasomrc/intro-python/master?filepath=Intro_Python.ipynb)
