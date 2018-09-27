@@ -4,6 +4,6 @@
 
 UVa School of Medicine Research Computing
 
-To begin the lesson: click the "Launch Binder" button.
+If you are attending the Introduction to Python workshop at UVa, click the "Launch Binder" button: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/uvasomrc/intro-python/master?filepath=Intro_Python-Blank.ipynb)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/uvasomrc/intro-python/master?filepath=Intro_Python.ipynb)
+If you are going through the workshop materials on your own, click this button instead: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/uvasomrc/intro-python/master?filepath=Intro_Python.ipynb)
