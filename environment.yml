@@ -1,6 +1,0 @@
-name: intro-python-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
