@@ -1,8 +1,6 @@
 name: intro-python-environment
 channels:
-  - damianavila82
   - conda-forge
 dependencies:
   - python
   - numpy
-  - rise
