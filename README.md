@@ -9,4 +9,3 @@ If you are attending the Introduction to Python workshop at UVa, click the "Laun
 If you are going through the workshop materials on your own, click this button instead: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/uvasomrc/intro-python/master?filepath=Intro_Python.ipynb)
 
 
-<a href="https://mybinder.org/v2/gh/uvasomrc/intro-python/master?filepath=Intro_Python.ipynb" target="_blank"><img src=https://mybinder.org/badge.svg></a>
